@@ -1,3 +1,3 @@
 project: oss-hw2-1156
 owner: leejaegoo
-status: main-leejaegoo
+status: merged-1156 by leejaegoo
